@@ -24,7 +24,19 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="60"/></a>
         </td>
     </tr>
+    <tr>
+        <td>Programming/Data Cience</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" height="60"/></a>
+        </td>
+    </tr>
 </table>
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpfa1406&theme=dark&show_icons=true)
 
 <!--
 **jpfa1406/jpfa1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
